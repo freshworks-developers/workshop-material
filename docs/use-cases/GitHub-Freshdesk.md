@@ -1,10 +1,11 @@
 # Use Case: GitHub Integration with Freshdesk
 
 - [Use Case: GitHub Integration with Freshdesk](#use-case-github-integration-with-freshdesk)
-  - [Problem Statement:](#problem-statement)
+  - [Problem Statement](#problem-statement)
   - [Solution Overview](#solution-overview)
   - [Implementation Steps](#implementation-steps)
-  - [Benefits:](#benefits)
+  - [Wireframe](#wireframe)
+  - [Benefits](#benefits)
 
 ## Problem Statement
 - Many customer support issues reported through Freshdesk may require collaboration with development teams for resolution.
@@ -36,6 +37,10 @@
 5. **Collaboration and Resolution**:
    - Facilitate communication and collaboration between support and development teams by providing visibility into GitHub issues within Freshdesk.
    - Enable seamless handoff of issues between support and development teams, with status updates reflected in both platforms.
+
+## Wireframe
+
+![GitHub Wireframe](../../assets/github/github-issues-sample.png)
 
 ## Benefits
 - **Streamlined Collaboration**: Integration enables seamless communication and collaboration between support and development teams, leading to faster issue resolution.

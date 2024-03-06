@@ -4,6 +4,7 @@
   - [Problem Statement](#problem-statement)
   - [Solution Overview](#solution-overview)
   - [Implementation Steps](#implementation-steps)
+  - [Wireframe](#wireframe)
   - [Benefits](#benefits)
 
 ## Problem Statement
@@ -35,6 +36,10 @@
 
 5. **Updating Order Status and Notes**:
    - Enable agents to update order status, add internal notes, or communicate with customers regarding order-related inquiries directly within Freshdesk.
+
+## Wireframe
+
+![Shopify Wireframe](../../assets/shopify/shopify-order-sample.png)
 
 ## Benefits
 - **Improved Customer Service**: Agents can access real-time order information within Freshdesk, enabling them to provide faster and more accurate support to customers.

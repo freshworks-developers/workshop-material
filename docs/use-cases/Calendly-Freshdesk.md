@@ -1,10 +1,11 @@
 # Use Case: Calendly Integration with Freshdesk
 
 - [Use Case: Calendly Integration with Freshdesk](#use-case-calendly-integration-with-freshdesk)
-  - [Problem Statement:](#problem-statement)
+  - [Problem Statement](#problem-statement)
   - [Solution Overview](#solution-overview)
   - [Implementation Steps](#implementation-steps)
-  - [Benefits:](#benefits)
+  - [Wireframe](#wireframe)
+  - [Benefits](#benefits)
 
 ## Problem Statement
 - Customer support teams often need to schedule meetings or appointments with customers to resolve issues or provide assistance.
@@ -36,6 +37,10 @@
 5. **Tracking and Reporting**:
    - Implement tracking mechanisms to record scheduled meetings and associated ticket details.
    - Generate reports and insights on meeting activities to measure the impact on customer support operations.
+
+## Wireframe
+
+![Calendly Wireframe](../../assets/calendly/calendly-sample.png)
 
 ## Benefits
 - **Improved Efficiency**: Agents can schedule meetings without leaving the Freshdesk interface, reducing context switching and saving time.

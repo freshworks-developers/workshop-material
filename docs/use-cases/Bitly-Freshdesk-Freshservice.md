@@ -4,6 +4,7 @@
   - [Problem Statement](#problem-statement)
   - [Solution Overview](#solution-overview)
   - [Implementation Steps](#implementation-steps)
+  - [Wireframe](#wireframe)
   - [Benefits](#benefits)
 
 ## Problem Statement
@@ -36,6 +37,10 @@
 5. **Tracking Click Analytics**:
    - Optionally, integrate Bitly click tracking functionality to monitor the performance of shortened URLs.
    - Enable agents to view click analytics directly within Freshdesk/Freshservice for better insights into customer engagement.
+
+## Wireframe
+
+![Bitly Wireframe](../../assets/bitly/bitly-sample.png)
 
 ## Benefits
 - **Improved Communication**: Shortened URLs enhance readability and reduce formatting issues in ticket conversations, improving communication with customers.

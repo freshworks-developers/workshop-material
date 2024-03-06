@@ -1,10 +1,13 @@
 # Use Case: Notion and Asana Integration with Freshdesk/Freshservice
 
 - [Use Case: Notion and Asana Integration with Freshdesk/Freshservice](#use-case-notion-and-asana-integration-with-freshdeskfreshservice)
-  - [Problem Statement:](#problem-statement)
+  - [Problem Statement](#problem-statement)
   - [Solution Overview](#solution-overview)
   - [Implementation Steps](#implementation-steps)
-  - [Benefits:](#benefits)
+  - [Wireframe](#wireframe)
+    - [Notion Wireframe](#notion-wireframe)
+    - [Asana Wireframe](#asana-wireframe)
+  - [Benefits](#benefits)
 
 ## Problem Statement
 - Support agents often need to collaborate with other teams, such as product development or project management, to resolve customer issues effectively.
@@ -36,6 +39,14 @@
 5. **Collaboration and Resolution**:
    - Facilitate communication and collaboration between support and other teams by providing visibility into tasks/projects within Freshdesk/Freshservice.
    - Enable seamless handoff of issues between support and other teams, with status updates reflected in both platforms.
+
+## Wireframe
+
+### Notion Wireframe
+![Notion Wireframe](../../assets/notion/notion-sample.png)
+
+### Asana Wireframe
+![Asana Wireframe](../../assets/notion/asana-sample.png)
 
 ## Benefits
 - **Streamlined Collaboration**: Integration enables seamless communication and collaboration between support and other teams, leading to faster issue resolution.
