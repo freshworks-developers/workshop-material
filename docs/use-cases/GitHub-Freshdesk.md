@@ -1,15 +1,21 @@
 # Use Case: GitHub Integration with Freshdesk
 
-## Problem Statement:
+- [Use Case: GitHub Integration with Freshdesk](#use-case-github-integration-with-freshdesk)
+  - [Problem Statement:](#problem-statement)
+  - [Solution Overview](#solution-overview)
+  - [Implementation Steps](#implementation-steps)
+  - [Benefits:](#benefits)
+
+## Problem Statement
 - Many customer support issues reported through Freshdesk may require collaboration with development teams for resolution.
 - Lack of visibility and communication between support and development teams can lead to delays in issue resolution and poor customer experience.
 - Integrating GitHub with Freshdesk can facilitate seamless collaboration and streamline issue tracking and resolution processes.
 
-## Solution Overview:
+## Solution Overview
 - Integrate GitHub, a popular code repository and issue tracking platform, with Freshdesk to enable support agents to create and track GitHub issues directly from Freshdesk tickets.
 - Utilize Freddy Copilot to simplify the integration process and accelerate app development.
 
-## Implementation Steps:
+## Implementation Steps
 
 1. **Authentication and Setup**:
    - Authenticate with the GitHub API and obtain necessary credentials.
@@ -31,7 +37,7 @@
    - Facilitate communication and collaboration between support and development teams by providing visibility into GitHub issues within Freshdesk.
    - Enable seamless handoff of issues between support and development teams, with status updates reflected in both platforms.
 
-## Benefits:
+## Benefits
 - **Streamlined Collaboration**: Integration enables seamless communication and collaboration between support and development teams, leading to faster issue resolution.
 - **Enhanced Visibility**: Agents have visibility into GitHub issues directly from Freshdesk, improving context and understanding of customer-reported issues.
 - **Improved Efficiency**: Agents can create GitHub issues without leaving the Freshdesk interface, reducing context switching and improving workflow efficiency.

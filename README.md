@@ -2,6 +2,16 @@
 
 This repository contains code that demonstrates the Freddy Copilot for Developers capabilities with v2.0.6 or higher
 
+- [Freddy Copilot for Developers: A Hands-on Workshop](#freddy-copilot-for-developers-a-hands-on-workshop)
+  - [Workshop Agenda](#workshop-agenda)
+    - [Introduction to Freddy Copilot and Freshworks Development Platform](#introduction-to-freddy-copilot-and-freshworks-development-platform)
+    - [Setting Up Freddy Copilot in VS Code](#setting-up-freddy-copilot-in-vs-code)
+    - [Exploring Freddy Copilot Features](#exploring-freddy-copilot-features)
+    - [Building Use Cases with Freddy Copilot](#building-use-cases-with-freddy-copilot)
+    - [Publishing Apps with Freddy Copilot](#publishing-apps-with-freddy-copilot)
+    - [Q\&A and Conclusion](#qa-and-conclusion)
+  - [Repository Structure](#repository-structure)
+
 ## Workshop Agenda
 
 ### Introduction to Freddy Copilot and Freshworks Development Platform
@@ -45,12 +55,11 @@ workshop-material/
 ├── presentations/                # Folder for workshop presentation slides
 ├── code_samples/                 # Folder for storing code samples used in the workshop
 ├── docs/                         # Folder for additional workshop documentation
-│   ├── prompts                   # Prompts that one can use for solving the use cases 
+│   ├── solutions                 # Solutions and prompts for solving the use cases
 │   └── use-cases                 # List of use cases that one can choose to build from
 └── resources/                    # Folder for additional resources and references
+    ├── faq.md                    # Frequently asked questions during the workshop hands-on
     ├── fdk-setup-guide.pdf       # Steps for installing FDK CLI
     ├── freddy-setup.pdf          # Steps for configuring VS code extension
     └── ...
 ```
-
-This structure allows participants to easily navigate through the workshop materials and access code samples, presentations, setup guides, and additional resources. You can customize it further based on specific workshop requirements and content.

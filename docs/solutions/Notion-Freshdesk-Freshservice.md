@@ -1,19 +1,44 @@
 # Use Case: Notion and Asana Integration with Freshdesk/Freshservice
 
 - [Use Case: Notion and Asana Integration with Freshdesk/Freshservice](#use-case-notion-and-asana-integration-with-freshdeskfreshservice)
-  - [Problem Statement:](#problem-statement)
   - [Solution Overview](#solution-overview)
+  - [Prerequisites](#prerequisites)
+    - [Necessary Account Creations and API Docs Links:](#necessary-account-creations-and-api-docs-links)
+      - [How to Get API Key/Access Token](#how-to-get-api-keyaccess-token)
   - [Implementation Steps](#implementation-steps)
-  - [Benefits:](#benefits)
-
-## Problem Statement
-- Support agents often need to collaborate with other teams, such as product development or project management, to resolve customer issues effectively.
-- Lack of integration between support tools like Freshdesk/Freshservice and collaboration platforms like Notion and Asana can lead to siloed workflows and inefficient communication.
-- Integrating Notion and Asana with Freshdesk/Freshservice can streamline collaboration and improve cross-functional team alignment.
+  - [Benefits](#benefits)
 
 ## Solution Overview
-- Integrate Notion and Asana with Freshdesk/Freshservice to enable support agents to create tasks, projects, or documentation directly from ticket conversations.
-- Utilize Freddy Copilot to simplify the integration process and accelerate app development.
+- Integrate Bitly with Freshdesk/Freshservice to enable support agents to shorten URLs directly within ticket conversations.
+- Utilize Freddy Copilot for Developers to simplify the integration process and accelerate app development.
+
+## Prerequisites
+
+1. A Notion account with access to the desired workspace.
+2. An Asana account with access to the desired projects/tasks.
+3. A Freshdesk/Freshservice account with administrative privileges.
+
+### Necessary Account Creations and API Docs Links:
+1. **Notion Account**: [Create](https://www.notion.so/signup) or log in to your Notion account. Refer to [Notion API Documentation](https://developers.notion.com/reference/intro) for more
+2. **Asana Account**: [Create](https://asana.com/create-account) or log in to your Asana account. Refer to [Asana API Documentation](https://developers.asana.com/reference/rest-api-reference) for more
+3. **Freshdesk Account:** [Create](https://developers.freshworks.com/docs/guides/setup/product-signup/) or log in to your Freshdesk account. Refer [Freshdesk API Documentation](https://developers.freshdesk.com/api/) for more information
+4. **Freshservice Account:** [Create](https://developers.freshworks.com/docs/guides/setup/product-signup/) or log in to your Freshservice account. Refer [Freshservice API Documentation](https://api.freshservice.com/) for more information
+
+#### How to Get API Key/Access Token
+**Notion Integration Token:**
+1. Go to Notion's [My Integrations](https://www.notion.so/my-integrations) page and create a new integration.
+2. Refer to [building your firsrt Notion integration](https://developers.notion.com/docs/create-a-notion-integration) doc for more information
+3. Obtain the integration token.
+
+**Asana Personal Access Token:**
+1. Log in to your Asana account.
+2. Navigate to "My Profile Settings" > "Apps" > "Manage Developer Apps".
+3. Create a new app and obtain the personal access token.
+
+**Freshdesk/Freshservice API Key:**
+1. Log in to your Freshdesk/Freshservice admin dashboard.
+2. Navigate to "Profile settings" > "API" tab.
+3. Generate an API key or use an existing one.
 
 ## Implementation Steps
 
@@ -23,6 +48,10 @@
 
 2. **Integration with Freshdesk/Freshservice**:
    - Use Freddy Copilot to access Freshdesk/Freshservice APIs and SDKs for ticket management and conversation handling.
+
+      ```md
+      How to build an app from scratch
+      ```
    - Implement custom actions or triggers within Freshdesk/Freshservice to initiate task/project creation in Notion and Asana.
 
 3. **Creating Tasks/Projects**:

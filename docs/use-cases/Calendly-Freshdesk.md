@@ -1,15 +1,21 @@
 # Use Case: Calendly Integration with Freshdesk
 
-## Problem Statement:
+- [Use Case: Calendly Integration with Freshdesk](#use-case-calendly-integration-with-freshdesk)
+  - [Problem Statement:](#problem-statement)
+  - [Solution Overview](#solution-overview)
+  - [Implementation Steps](#implementation-steps)
+  - [Benefits:](#benefits)
+
+## Problem Statement
 - Customer support teams often need to schedule meetings or appointments with customers to resolve issues or provide assistance.
 - Manually coordinating schedules and sending meeting invitations can be time-consuming and prone to errors.
 - Streamlining the scheduling process within Freshdesk can improve efficiency and enhance customer experience.
 
-## Solution Overview:
+## Solution Overview
 - Integrate Calendly, a popular scheduling tool, with Freshdesk to enable agents to schedule meetings directly within ticket conversations.
 - Utilize Freddy Copilot for Developers to simplify the integration process and accelerate app development.
 
-## Implementation Steps:
+## Implementation Steps
 
 1. **Authentication and Setup**:
    - Authenticate with the Calendly API and obtain necessary credentials.
@@ -31,7 +37,7 @@
    - Implement tracking mechanisms to record scheduled meetings and associated ticket details.
    - Generate reports and insights on meeting activities to measure the impact on customer support operations.
 
-## Benefits:
+## Benefits
 - **Improved Efficiency**: Agents can schedule meetings without leaving the Freshdesk interface, reducing context switching and saving time.
 - **Enhanced Customer Experience**: Seamless scheduling experience enhances customer satisfaction and strengthens relationships.
 - **Automated Processes**: Integration enables automation of scheduling tasks, reducing manual effort and minimizing errors.
