@@ -41,30 +41,24 @@
 2. **Integration with Freshdesk**:
    - Use Freddy Copilot to access Freshdesk APIs and SDKs for ticket management and conversation handling.
       ```md
-      How to build an app from scratch
+      I want a Shopify integration where support agents can view customer orders via email ID. Upon clicking on a button, fetch order details from Shopify API and display them alongside the ticket information.
       ```
    - Configure the settings using [custom config page](http://localhost:10001/custom_config) for custom app.
    - Implement custom actions or triggers within Freshdesk to initiate order retrieval from Shopify.
-      ```md
-      How to build an app from scratch
-      ```
 
 3. **Retrieving Order Details**:
    - Integrate Shopify functionality within Freshdesk ticket interface.
    - Enable agents to retrieve order details by entering relevant order IDs or customer information directly from ticket conversations.
-      ```md
-      How to build an app from scratch
-      ```
 
 4. **Displaying Order Information**:
    - Display order details, including order status, items purchased, shipping information, etc., within Freshdesk ticket interface.
    - Ensure that agents have access to real-time order updates and tracking information to provide timely support to customers.
       ```md
-      How to build an app from scratch
+      Display the fetched order information in a collapsable accordion card
       ```
 
 5. **Updating Order Status and Notes**:
    - Enable agents to update order status, add internal notes, or communicate with customers regarding order-related inquiries directly within Freshdesk.
       ```md
-      How to build an app from scratch
+      Update the order information for the retrieved order and save it in shopify store
       ```
