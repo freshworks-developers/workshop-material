@@ -13,6 +13,7 @@
       - [Sidebar App rending for OAuth enabled apps](#sidebar-app-rending-for-oauth-enabled-apps)
       - [Sidebar App rending for Create Issue](#sidebar-app-rending-for-create-issue)
       - [Full page App rending](#full-page-app-rending)
+      - [Full page App view issues](#full-page-app-view-issues)
 
 ## Solution Overview
 - Integrate GitHub, a popular code repository and issue tracking platform, with Freshdesk to enable support agents to create and track GitHub issues directly from Freshdesk tickets.
@@ -100,7 +101,12 @@ When launched with `?dev=true` the app will be rendered in sidebar with create i
 
 #### Full page App rending
 
-When launched with `?dev=true` the app will be rendered in sidebar with OAuth as follows
+When launched with `?dev=true` the app will be rendered in global navbar with OAuth as follows
 
 ![GitHub Full Page Sample](../../assets/github/github-full-page-create-issue.png)
 
+#### Full page App view issues
+
+When launched with `?dev=true` the app will be rendered in global navbar with OAuth as follows
+
+![GitHub Full Page view issues Sample](../../assets/github/github-freshdesk-view-issues.png)
