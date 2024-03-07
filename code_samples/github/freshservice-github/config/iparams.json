@@ -1,0 +1,16 @@
+{
+  "github_org": {
+    "description": "Enter your GitHub organisation or user name",
+    "type": "text",
+    "required": true,
+    "secure": false,
+    "display_name": "GitHub Org"
+  },
+  "github_repo": {
+    "description": "Enter the GitHub repository name",
+    "type": "text",
+    "required": true,
+    "secure": false,
+    "display_name": "GitHub Repository"
+  }
+}

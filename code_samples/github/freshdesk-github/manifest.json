@@ -1,0 +1,34 @@
+{
+  "platform-version": "2.3",
+  "product": {
+    "freshdesk": {
+      "location": {
+        "ticket_sidebar": {
+          "url": "index.html",
+          "icon": "styles/images/icon.svg"
+        },
+        "full_page_app": {
+          "url": "index.html",
+          "icon": "styles/images/icon.svg"
+        }
+      },
+      "requests": {
+        "create_issue": {},
+        "fetch_issues": {}
+      },
+      "events": {},
+      "functions": {
+        "createIssue": {
+          "timeout": 5
+        },
+        "fetchIssues": {
+          "timeout": 5
+        }
+      }
+    }
+  },
+  "engines": {
+    "node": "18.17.0",
+    "fdk": "9.1.0"
+  }
+}

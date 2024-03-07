@@ -38,36 +38,16 @@
 
 2. **Integration with Freshdesk**:
    - Utilize Freddy Copilot for Developers to build app that enables you to perform ticket management and conversation handling.
-
-      ```md
-      How to build an app from scratch
-      ```
    - Implement custom actions or triggers within Freshdesk to initiate the scheduling process.
 
 3. **Scheduling Meetings**:
    - Integrate Calendly scheduling functionality within Freshdesk ticket interface.
-
-      ```md
-      How to build an app from scratch
-      ```
    - Enable agents to select available time slots, add meeting details, and send meeting invitations to customers directly from the ticket.
-
-      ```md
-      How to build an app from scratch
-      ```
 
 4. **Automated Notifications**:
    - Configure automated notifications to inform agents and customers about scheduled meetings.
-
-      ```md
-      How to build an app from scratch
-      ```
    - Use Freshdesk automation rules or Calendly webhook integrations to trigger notifications based on specific events.
 
 5. **Tracking and Reporting**:
    - Implement tracking mechanisms to record scheduled meetings and associated ticket details.
-
-      ```md
-      How to build an app from scratch
-      ```
    - Generate reports and insights on meeting activities to measure the impact on customer support operations.

@@ -63,15 +63,11 @@
 
 5. **Tracking Click Analytics**:
    - Optionally, integrate Bitly click tracking functionality to monitor the performance of shortened URLs.
-
-      ```md
-      How to build an app from scratch
-      ```
    - Enable agents to view click analytics directly within Freshdesk/Freshservice for better insights into customer engagement.
 
 ## Sample App
 
-For reference purpose we have created a sample app that demonstrates Bitly Integration with Freshdesk via [Bitly Freshdesk App](/code_samples/bitly/freshdesk/) and Freshservice via Freshdesk via [Bitly Freshdesk App](/code_samples/bitly/freshservice/)
+For reference purpose we have created a sample app that demonstrates Bitly Integration with Freshdesk via [Bitly Freshdesk App](/code_samples/bitly/freshdesk/) and for Freshservice via [Bitly Freshservice App](/code_samples/bitly/freshservice/)
 
 #### Freshdesk App
 

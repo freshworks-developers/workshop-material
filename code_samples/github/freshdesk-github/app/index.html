@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App Name</title>
+
+  <!-- Crayons CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@freshworks/crayons@v4/css/crayons-min.css">
+
+  <!-- Crayons JavaScript -->
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@freshworks/crayons@v4/dist/crayons/crayons.esm.js"></script>
+  <script nomodule src="https://cdn.jsdelivr.net/npm/@freshworks/crayons@v4/dist/crayons/crayons.js"></script>
+</head>
+<body>
+  <div class="app-container">
+    <!-- View all issues button -->
+    <fw-button color="primary" id="view-issues" style="display: none;">View all issues</fw-button>
+    <!-- New issue button -->
+    <fw-button color="primary" id="new-issue" style="display: none;">New Issue</fw-button>
+    
+    <!-- Issue list container -->
+    <div id="issues-container" style="display: none;"></div>
+    
+    <!-- Issue creation form -->
+    <fw-form id="issue-form" style="display: none;">
+      <!-- Input fields for issue title and description -->
+      <fw-input label="Issue Title" name="title" required></fw-input>
+      <fw-textarea label="Issue Description" name="description" required></fw-textarea>
+      <!-- Submit button for creating the issue -->
+      <fw-button type="submit" id="create-issue" color="primary">Create Issue</fw-button>
+    </fw-form>
+  </div>  </div>
+
+  <!-- Include app.js for frontend business logic -->
+  <script src="app.js"></script>
+<script defer src="https://static.freshdev.io/fdk/2.0/assets/fresh_client.js"></script>
+<script defer src="scripts/app.js"></script>
+</body>
+</html>
