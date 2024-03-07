@@ -6,6 +6,7 @@
     - [Necessary Account Creations and API Docs Links:](#necessary-account-creations-and-api-docs-links)
       - [How to Get API Key/Access Token](#how-to-get-api-keyaccess-token)
   - [Implementation Steps](#implementation-steps)
+  - [Sample App](#sample-app)
 
 ## Solution Overview
 - Integrate Shopify with Freshdesk to enable support agents to retrieve order details, track shipments, and resolve customer inquiries directly from Freshdesk.
@@ -62,3 +63,15 @@
       ```md
       Update the order information for the retrieved order and save it in shopify store
       ```
+
+## Sample App
+
+For reference purpose we have created a sample app that demonstrates Shopify Stores Integration with Freshdesk via [Shopify Freshdesk App](/code_samples/shopify-freshdesk)
+
+The sample app under ticket sidebar will apear as below
+
+![Shopify Sidebar Sample](../../assets/shopify/shopify-sidebar.png)
+
+The sample app as a full page app will apear as below
+
+![Shopify Full Page Sample](../../assets/shopify/shopify-full-page.png)

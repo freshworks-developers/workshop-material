@@ -39,7 +39,7 @@
 
 ## Wireframe
 
-![Shopify Wireframe](../../assets/shopify/shopify-order-sample.png)
+![Shopify Wireframe](../../assets/shopify/shopify-order-sample-wireframe.png)
 
 ## Benefits
 - **Improved Customer Service**: Agents can access real-time order information within Freshdesk, enabling them to provide faster and more accurate support to customers.

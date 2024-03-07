@@ -6,6 +6,9 @@
     - [Necessary Account Creations and API Docs Links:](#necessary-account-creations-and-api-docs-links)
       - [How to Get API Key/Access Token](#how-to-get-api-keyaccess-token)
   - [Implementation Steps](#implementation-steps)
+  - [Sample App](#sample-app)
+      - [Freshdesk App](#freshdesk-app)
+      - [Freshservice App](#freshservice-app)
 
 ## Solution Overview
 - Integrate Bitly with Freshdesk/Freshservice to enable support agents to shorten URLs directly within ticket conversations.
@@ -40,9 +43,13 @@
 
 2. **Integration with Freshdesk/Freshservice**:
    - Use Freddy Copilot to access Freshdesk/Freshservice APIs and SDKs for ticket management and conversation handling.
-
+      **For Freshdesk**
       ```md
-      How to build an app from scratch
+      "I want a Bitly integration available within every ticket in Freshdesk. Upon clicking a button, use the Bitly API to shorten the URL provided in the ticket and display the shortened URL on the UI for easy sharing."
+      ```
+      **For Freshservice**
+      ```md
+      "I want a Bitly integration available within every ticket in Freshservice. Upon clicking a button, use the Bitly API to shorten the URL provided in the ticket and display the shortened URL on the UI for easy sharing."
       ```
    - Implement custom actions or triggers within Freshdesk/Freshservice to initiate URL shortening.
 
@@ -61,3 +68,19 @@
       How to build an app from scratch
       ```
    - Enable agents to view click analytics directly within Freshdesk/Freshservice for better insights into customer engagement.
+
+## Sample App
+
+For reference purpose we have created a sample app that demonstrates Bitly Integration with Freshdesk via [Bitly Freshdesk App](/code_samples/bitly/freshdesk/) and Freshservice via Freshdesk via [Bitly Freshdesk App](/code_samples/bitly/freshservice/)
+
+#### Freshdesk App
+
+The sample app under ticket sidebar for Freshdesk will apear as below
+
+![Bitly Freshdesk Sidebar Sample](../../assets/bitly/bitly-freshdesk.png)
+
+#### Freshservice App
+
+The sample app under ticket sidebar for Freshservice will apear as below
+
+![Bitly Freshservice Sidebar Sample](../../assets/bitly/bitly-freshdesk.png)

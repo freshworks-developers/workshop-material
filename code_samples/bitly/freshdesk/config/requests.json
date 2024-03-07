@@ -1,0 +1,32 @@
+{
+  "shorten_url": {
+    "schema": {
+      "method": "POST",
+      "host": "api-ssl.bitly.com",
+      "path": "/v4/shorten",
+      "headers": {
+        "Authorization": "Bearer <%= iparam.bitly_api_key %>",
+        "Content-Type": "application/json"
+      },
+      "query": {}
+    }
+  },
+  "bitly_click_summary": {
+    "schema": {
+      "protocol": "https",
+      "method": "GET",
+      "host": "api-ssl.bitly.com",
+      "path": "/v4/bitlinks/<%= context.url %>/clicks/summary",
+      "query": {
+        "unit": "month",
+        "units": "1",
+        "unit_reference": "2006-01-02T15:04:05-0700"
+      },
+      "headers": {
+        "Authorization": "Bearer <%= iparam.bitly_api_key %>"
+      }
+    },
+    "options": {
+    }
+  }
+}
