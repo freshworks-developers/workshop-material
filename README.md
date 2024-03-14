@@ -13,6 +13,7 @@ This repository contains code that demonstrates the Freddy Copilot for Developer
     - [Publishing Apps with Freddy Copilot](#publishing-apps-with-freddy-copilot)
     - [Q\&A and Conclusion](#qa-and-conclusion)
   - [Repository Structure](#repository-structure)
+  - [Workshop recording](#workshop-recording)
 
 ## Workshop Agenda
 
@@ -123,3 +124,7 @@ workshop-material/
     ├── freddy-setup.pdf          # Steps for configuring VS code extension
     └── ...
 ```
+
+## Workshop recording
+
+This material was used to deliver Freddy Copilot Hands-on Lab on 7th March 2024. The recording for the workshop is available [here](https://freshworks.box.com/s/y559afhkxf02q8591js1da3yuw7938wl).
