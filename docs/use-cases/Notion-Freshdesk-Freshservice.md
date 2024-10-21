@@ -16,7 +16,7 @@
 
 ## Solution Overview
 - Integrate Notion and Asana with Freshdesk/Freshservice to enable support agents to create tasks, projects, or documentation directly from ticket conversations.
-- Utilize Freddy Copilot to simplify the integration process and accelerate app development.
+- Utilize Freddy AI Copilot for Developers to simplify the integration process and accelerate app development.
 
 ## Implementation Steps
 
@@ -25,7 +25,7 @@
    - Configure access permissions and define default settings for task/project creation.
 
 2. **Integration with Freshdesk/Freshservice**:
-   - Use Freddy Copilot to access Freshdesk/Freshservice APIs and SDKs for ticket management and conversation handling.
+   - Use Freddy AI Copilot for Developers to access Freshdesk/Freshservice APIs and SDKs for ticket management and conversation handling.
    - Implement custom actions or triggers within Freshdesk/Freshservice to initiate task/project creation in Notion and Asana.
 
 3. **Creating Tasks/Projects**:

@@ -12,7 +12,7 @@
 
 ## Solution Overview
 - Integrate Bitly with Freshdesk/Freshservice to enable support agents to shorten URLs directly within ticket conversations.
-- Utilize Freddy Copilot for Developers to simplify the integration process and accelerate app development.
+- Utilize Freddy AI Copilot for Developers to simplify the integration process and accelerate app development.
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@
    - Configure Bitly settings and define default preferences for URL shortening.
 
 2. **Integration with Freshdesk/Freshservice**:
-   - Use Freddy Copilot to access Freshdesk/Freshservice APIs and SDKs for ticket management and conversation handling.
+   - Use Freddy AI Copilot for Developers to access Freshdesk/Freshservice APIs and SDKs for ticket management and conversation handling.
       **For Freshdesk**
       ```md
       "I want a Bitly integration available within every ticket in Freshdesk. Upon clicking a button, use the Bitly API to shorten the URL provided in the ticket and display the shortened URL on the UI for easy sharing."
