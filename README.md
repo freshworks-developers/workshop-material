@@ -1,24 +1,24 @@
-# Freddy Copilot for Developers: A Hands-on Workshop
+# Freddy AI Copilot for Developers: A Hands-on Workshop
 
-This repository contains code that demonstrates the Freddy Copilot for Developers capabilities with v2.0.6 or higher
+This repository contains code that demonstrates the Freddy AI Copilot for Developers capabilities with v2.0.6 or higher
 
-- [Freddy Copilot for Developers: A Hands-on Workshop](#freddy-copilot-for-developers-a-hands-on-workshop)
+- [Freddy AI Copilot for Developers: A Hands-on Workshop](#freddy-ai-copilot-for-developers-a-hands-on-workshop)
   - [Workshop Agenda](#workshop-agenda)
-    - [Introduction to Freddy Copilot and Freshworks Development Platform](#introduction-to-freddy-copilot-and-freshworks-development-platform)
-    - [Setting Up Freddy Copilot in VS Code](#setting-up-freddy-copilot-in-vs-code)
-    - [Exploring Freddy Copilot Features](#exploring-freddy-copilot-features)
-    - [Building Use Cases with Freddy Copilot for Developers](#building-use-cases-with-freddy-copilot-for-developers)
+    - [Introduction to Freddy AI Copilot for Developers and Freshworks Development Platform](#introduction-to-freddy-ai-copilot-for-developers-and-freshworks-development-platform)
+    - [Setting Up Freddy AI Copilot for Developers in VS Code](#setting-up-freddy-ai-copilot-for-developers-in-vs-code)
+    - [Exploring Freddy AI Copilot for Developers Features](#exploring-freddy-ai-copilot-for-developers-features)
+    - [Building Use Cases with Freddy AI Copilot for Developers](#building-use-cases-with-freddy-ai-copilot-for-developers)
       - [Use cases](#use-cases)
       - [Solution Guides](#solution-guides)
-    - [Publishing Apps with Freddy Copilot](#publishing-apps-with-freddy-copilot)
+    - [Publishing Apps with Freddy AI Copilot for Developers](#publishing-apps-with-freddy-ai-copilot-for-developers)
     - [Q\&A and Conclusion](#qa-and-conclusion)
   - [Repository Structure](#repository-structure)
   - [Workshop recording](#workshop-recording)
 
 ## Workshop Agenda
 
-### Introduction to Freddy Copilot and Freshworks Development Platform
-**Overview of Freddy Copilot and its capabilities**
+### Introduction to Freddy AI Copilot for Developers and Freshworks Development Platform
+**Overview of Freddy AI Copilot for Developers and its capabilities**
 - It is a Generative AI powered development tool that helps you build Smarter & faster way to build reliable apps
 - It is a powerful toolkit that offers features such as
   - Use case to app: Define your use case in simple words and let it create code skeleton for your use case
@@ -42,24 +42,24 @@ This repository contains code that demonstrates the Freddy Copilot for Developer
   - Crayons UI for ease of building Freshworks like UI
   - Rest Endpoints of products for seamless integrations and many more
 
-**Benefits of using Freddy Copilot for developers**
+**Benefits of using Freddy AI Copilot for developers**
   - With Freddy you can get started quickly
   - Build apps with lightening speed
   - Integrate, test and publish apps with ease
 
-### Setting Up Freddy Copilot in VS Code
+### Setting Up Freddy AI Copilot for Developers in VS Code
 - Download and install Freshworks CLI (FDK) using the [FDK Setup Guide](resources/fdk-setup-guide.pdf)
 - Sign up and create developer account using the [Dev Signup Guide](https://freshworks.dev/docs/guides/setup/dev-signup/) if haven't already
 - Subscribe to at least one product account using the [Product Signup Guide](https://freshworks.dev/docs/guides/setup/product-signup/) if haven't already
-- Download and configure Freddy Copilot for Developers using [Freddy Setup Guide](resources/freddy-setup.pdf)
+- Download and configure Freddy AI Copilot for Developers using [Freddy Setup Guide](resources/freddy-setup.pdf)
 
-### Exploring Freddy Copilot Features
+### Exploring Freddy AI Copilot for Developers Features
 - Using Freddy to create apps for your usecase
 - Leveraging it for contextual help and code suggestions
 - Understanding its productivity features
 - Integrated platform features such as one click app publish
 
-### Building Use Cases with Freddy Copilot for Developers
+### Building Use Cases with Freddy AI Copilot for Developers
 - Exploring Copilot [feature doc](https://developers-staging.freshworks.com/docs/guides/fcd-setup/features/) to understand various capabilities of Freddy and how to use them
 
 #### Use cases
@@ -70,7 +70,7 @@ This repository contains code that demonstrates the Freddy Copilot for Developer
   - [Use case doc for GitHub Integration with Freshdesk/Freshservice](docs/use-cases/GitHub-Freshdesk.md)
   - [Use case doc for Notion Integration with Freshdesk/Freshservice](docs/use-cases/Notion-Freshdesk-Freshservice.md) 
   - [Use case doc for Shopify Integration with Freshdesk](docs/use-cases/Shopify-Freshdesk.md)
-- Choose any of these use cases to begin your development journey with Freddy Copilot for Developers
+- Choose any of these use cases to begin your development journey with Freddy AI Copilot for Developers
 - Each of these use cases has following segments in it
   - Problem Statement: Covers issue that a User of Freshworks Products is facing
   - Solution Overview: What can you build to solve the user issues
@@ -95,8 +95,8 @@ This repository contains code that demonstrates the Freddy Copilot for Developer
   - Detailed Implementation Steps
   - Sample App: In case you face challenges while building the use case, you can refer to the solution available under the respective sample apps
 
-### Publishing Apps with Freddy Copilot
-- Packaging apps built with Freddy Copilot as custom apps
+### Publishing Apps with Freddy AI Copilot for Developers
+- Packaging apps built with Freddy AI Copilot for Developers as custom apps
 - Submitting apps to Freshworks Marketplace
 - Understanding the process of publishing apps as Marketplace apps
 - Tips for successful app submissions and approvals
@@ -127,4 +127,4 @@ workshop-material/
 
 ## Workshop recording
 
-This material was used to deliver Freddy Copilot Hands-on Lab on 7th March 2024. The recording for the workshop is available [here](https://freshworks.box.com/s/y559afhkxf02q8591js1da3yuw7938wl).
+This material was used to deliver Freddy AI Copilot for Developers Hands-on Lab on 7th March 2024. The recording for the workshop is available [here](https://freshworks.box.com/s/y559afhkxf02q8591js1da3yuw7938wl).

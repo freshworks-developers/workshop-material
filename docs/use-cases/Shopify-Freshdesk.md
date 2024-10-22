@@ -14,7 +14,7 @@
 
 ## Solution Overview
 - Integrate Shopify with Freshdesk to enable support agents to retrieve order details, track shipments, and resolve customer inquiries directly from Freshdesk.
-- Utilize Freddy Copilot to simplify the integration process and accelerate app development.
+- Utilize Freddy AI Copilot for Developers to simplify the integration process and accelerate app development.
 
 ## Implementation Steps
 
@@ -23,7 +23,7 @@
    - Configure access permissions and define default settings for order retrieval.
 
 2. **Integration with Freshdesk**:
-   - Use Freddy Copilot to access Freshdesk APIs and SDKs for ticket management and conversation handling.
+   - Use Freddy AI Copilot for Developers to access Freshdesk APIs and SDKs for ticket management and conversation handling.
    - Implement custom actions or triggers within Freshdesk to initiate order retrieval from Shopify.
 
 3. **Retrieving Order Details**:

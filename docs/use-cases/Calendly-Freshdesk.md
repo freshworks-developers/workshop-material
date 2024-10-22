@@ -14,7 +14,7 @@
 
 ## Solution Overview
 - Integrate Calendly, a popular scheduling tool, with Freshdesk to enable agents to schedule meetings directly within ticket conversations.
-- Utilize Freddy Copilot for Developers to simplify the integration process and accelerate app development.
+- Utilize Freddy AI Copilot for Developers to simplify the integration process and accelerate app development.
 
 ## Implementation Steps
 
@@ -23,7 +23,7 @@
    - Configure Calendly settings to define meeting types, availability, and other preferences.
 
 2. **Integration with Freshdesk**:
-   - Utilize Freddy Copilot for Developers to build app that enables you to perform ticket management and conversation handling.
+   - Utilize Freddy AI Copilot for Developers to build app that enables you to perform ticket management and conversation handling.
    - Implement custom actions or triggers within Freshdesk to initiate the scheduling process.
 
 3. **Scheduling Meetings**:

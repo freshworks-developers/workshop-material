@@ -17,7 +17,7 @@
 
 ## Solution Overview
 - Integrate GitHub, a popular code repository and issue tracking platform, with Freshdesk to enable support agents to create and track GitHub issues directly from Freshdesk tickets.
-- Utilize Freddy Copilot to simplify the integration process and accelerate app development.
+- Utilize Freddy AI Copilot for Developers to simplify the integration process and accelerate app development.
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@
    - Configure access permissions and define repository settings for issue tracking.
 
 2. **Integration with Freshdesk/Freshservice**:
-   - Use Freddy Copilot to access Freshdesk APIs and SDKs for ticket management and conversation handling.
+   - Use Freddy AI Copilot for Developers to access Freshdesk APIs and SDKs for ticket management and conversation handling.
 
       ```md
       I want to create a GitHub integration with Freshdesk. I want to be able to create a GitHub issue and also fetch the list of issues on click of button. I want to display the list of issues in a datatable
