@@ -2,15 +2,15 @@
 
 This repository contains code that demonstrates the Freddy AI Copilot for Developers capabilities with v2.0.6 or higher
 
-- [Freddy AI Copilot for Developers: A Hands-on Workshop](#freddy-copilot-for-developers-a-hands-on-workshop)
+- [Freddy AI Copilot for Developers: A Hands-on Workshop](#freddy-ai-copilot-for-developers-a-hands-on-workshop)
   - [Workshop Agenda](#workshop-agenda)
-    - [Introduction to Freddy AI Copilot for Developers and Freshworks Development Platform](#introduction-to-freddy-copilot-and-freshworks-development-platform)
-    - [Setting Up Freddy AI Copilot for Developers in VS Code](#setting-up-freddy-copilot-in-vs-code)
-    - [Exploring Freddy AI Copilot for Developers Features](#exploring-freddy-copilot-features)
-    - [Building Use Cases with Freddy AI Copilot for Developers](#building-use-cases-with-freddy-copilot-for-developers)
+    - [Introduction to Freddy AI Copilot for Developers and Freshworks Development Platform](#introduction-to-freddy-ai-copilot-for-developers-and-freshworks-development-platform)
+    - [Setting Up Freddy AI Copilot for Developers in VS Code](#setting-up-freddy-ai-copilot-for-developers-in-vs-code)
+    - [Exploring Freddy AI Copilot for Developers Features](#exploring-freddy-ai-copilot-for-developers-features)
+    - [Building Use Cases with Freddy AI Copilot for Developers](#building-use-cases-with-freddy-ai-copilot-for-developers)
       - [Use cases](#use-cases)
       - [Solution Guides](#solution-guides)
-    - [Publishing Apps with Freddy AI Copilot for Developers](#publishing-apps-with-freddy-copilot)
+    - [Publishing Apps with Freddy AI Copilot for Developers](#publishing-apps-with-freddy-ai-copilot-for-developers)
     - [Q\&A and Conclusion](#qa-and-conclusion)
   - [Repository Structure](#repository-structure)
   - [Workshop recording](#workshop-recording)
