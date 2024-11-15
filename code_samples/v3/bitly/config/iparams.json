@@ -1,0 +1,10 @@
+{
+    "apiKey": {
+      "display_name": "Enter Bitly API Key",
+      "description": "7f5924ceaab50c620ec8d4e1906544fcfa770f02",
+      "type": "text",
+      "secure": true,
+      "required": true,
+      "modules": ["support_ticket"]
+    }
+  }

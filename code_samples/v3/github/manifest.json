@@ -1,0 +1,32 @@
+{
+  "platform-version": "3.0",
+  "modules":{
+  "common": {
+    "requests": {
+      "create_issue": {},
+      "fetch_issues": {}
+    },
+    "events": {},
+    "functions": {
+      "createIssue": {
+        "timeout": 5
+      },
+      "fetchIssues": {
+        "timeout": 5
+      }
+    }
+  },
+  "support_ticket": {
+    "location": {
+      "ticket_sidebar": {
+        "url": "index.html",
+        "icon": "styles/images/icon.svg"
+      }
+    }
+  }
+  },
+  "engines": {
+    "node": "18.18.2",
+    "fdk": "9.2.0"
+  }
+}

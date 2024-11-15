@@ -1,9 +1,0 @@
-{
-  "bitly_api_key": {
-    "description": "Enter your Bitly API key",
-    "type": "text",
-    "required": true,
-    "secure": true,
-    "display_name": "Bitly API Key"
-  }
-}

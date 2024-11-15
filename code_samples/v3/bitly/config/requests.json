@@ -1,0 +1,13 @@
+{
+    "shortenLink": {
+      "schema": {
+        "method": "POST",
+        "host": "api-ssl.bitly.com",
+        "path": "/v4/shorten",
+        "headers": {
+          "Authorization": "Bearer <%= iparam.apiKey %>",
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  }

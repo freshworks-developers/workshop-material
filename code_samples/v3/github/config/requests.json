@@ -1,0 +1,28 @@
+{
+  "create_issue": {
+    "schema": {
+      "method": "POST",
+      "host": "api.github.com",
+      "path": "/repos/<%= iparam.github_org %>/<%= iparam.github_repo %>/issues",
+      "headers": {
+        "Authorization": "Bearer <%= access_token %>",
+        "Content-Type": "application/json",
+        "user-agent": "freshworks app"
+      },
+      "query": {}
+    }
+  },
+  "fetch_issues": {
+    "schema": {
+      "method": "GET",
+      "host": "api.github.com",
+      "path": "/repos/<%= iparam.github_repo %>/issues",
+      "headers": {
+        "Authorization": "Bearer <%= access_token %>",
+        "Content-Type": "application/json",
+        "user-agent": "freshworks app"
+      },
+      "query": {}
+    }
+  }
+}
